@@ -13,8 +13,6 @@ Linkedin : https://linkedin.com/in/hosseinhezami
 
 Instagram : https://instagram.com/hosseinhezami
 
-Google+ : https://plus.google.com/+HosseinHezami
-
 Pinterest : https://www.pinterest.com/hosseinhezami
 
 Youtube : https://www.youtube.com/hosseinhezami
