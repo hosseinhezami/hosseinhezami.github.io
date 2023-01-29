@@ -838,7 +838,7 @@ function _interopRequireWildcard(obj) {
 }
 let detectDomainLocale;
 if (false) {}
-const basePath = "/nft" || 0;
+const basePath = "/nft/out" || 0;
 function buildCancellationError() {
     return Object.assign(new Error("Route Cancelled"), {
         cancelled: true
