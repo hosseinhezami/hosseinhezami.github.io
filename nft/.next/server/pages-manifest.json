@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/utils": "pages/api/utils.js",
+  "/api/verify-image": "pages/api/verify-image.js",
+  "/api/verify": "pages/api/verify.js",
+  "/": "pages/index.html",
+  "/nft/create": "pages/nft/create.html",
+  "/profile": "pages/profile.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
